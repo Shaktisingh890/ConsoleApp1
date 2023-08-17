@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Sum calc=new Sum();
             calc.Multi(12,23);
             calc.Sum1(70,80);
+            calc.Divide(10, 5);
             Console.ReadLine();
         }
     }
